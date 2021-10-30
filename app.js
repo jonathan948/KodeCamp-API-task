@@ -9,7 +9,7 @@
          html +=`
          <div class="col-md-4 mb-3">
          <a href="allPost.html" onclick="myfucntion(${e.id})">
-         <div class="card h-100">
+         <div class="card h-100 shadow">
              <div class="card-body">
                   <h1 class="text-warning">${e.id}</h1>
                    <h5 class="title mb-3">${e.title}</h5>
